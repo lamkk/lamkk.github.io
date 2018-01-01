@@ -11,6 +11,7 @@ body {
 	color: $text-color;
     background-image: 
       url('../images/test.jpg');
+	background-repeat:repeat;
 	@include font-size(16);
 }
 
