@@ -22,14 +22,14 @@ $border-radius               	: 3px;
 
 /*
    Color variables
-   Background : b-orange #ffc65a  http://encycolorpedia.cn/002147
+   Background : Borange #ffc65a  http://encycolorpedia.cn/002147
    奶油色／Cream #fffdd0
    text-color: white
    ========================================================================== */
 
 $white                        : #fff; 
 $black                        : #000;
-$b-orange                     : #ffc65a;
+$Borange                     : #ffc65a;
 $cream                        : #fffdd0;
 $lemon                        : #fff700;
 
@@ -38,12 +38,12 @@ $body-color                  	: #ebebeb;
 $text-color                  	: #313130;
 $caption-color                : mix($white, $text-color, 25%);
 
-$base-color                  	: $b-orange;
+$base-color                  	: $Borange;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 $link-color                  	: #222;
 
-$primary-color               	: $b-orange;
+$primary-color               	: $Borange;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;
@@ -89,10 +89,10 @@ $form-font-size              	: $doc-font-size;
    Sliding menu navigation variables
    ========================================================================== */
 
-$sliding-menu-border-color	 	   : $b-orange;
-$sliding-menu-background 		   : $b-orange;
+$sliding-menu-border-color	 	   : $Borange;
+$sliding-menu-background 		   : $Borange;
 $sliding-menu-color 	 		   : $white;
-$sliding-menu-background-hover     : $b-orange;
+$sliding-menu-background-hover     : $Borange;
 $sliding-menu-color-hover	 	   : $cream;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
 $button-size		         	   : 30px;
