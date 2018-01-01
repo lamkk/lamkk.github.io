@@ -28,7 +28,7 @@ $border-radius               	: 3px;
 
 $white                        : #fff; 
 $black                        : #000;
-$oxfordblue                   : #002147;
+$Berger Orange                   : #002147;
 $cream                        : #fffdd0;
 $lemon                        : #fff700;
 
@@ -37,12 +37,12 @@ $body-color                  	: #ebebeb;
 $text-color                  	: #313130;
 $caption-color                : mix($white, $text-color, 25%);
 
-$base-color                  	: $oxfordblue;
+$base-color                  	: $Berger Orange;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 $link-color                  	: #222;
 
-$primary-color               	: $oxfordblue;
+$primary-color               	: $Berger Orange;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;
@@ -88,10 +88,10 @@ $form-font-size              	: $doc-font-size;
    Sliding menu navigation variables
    ========================================================================== */
 
-$sliding-menu-border-color	 	   : $oxfordblue;
-$sliding-menu-background 		   : $oxfordblue;
+$sliding-menu-border-color	 	   : $Berger Orange;
+$sliding-menu-background 		   : $Berger Orange;
 $sliding-menu-color 	 		   : $white;
-$sliding-menu-background-hover     : $oxfordblue;
+$sliding-menu-background-hover     : $Berger Orange;
 $sliding-menu-color-hover	 	   : $cream;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
 $button-size		         	   : 30px;
