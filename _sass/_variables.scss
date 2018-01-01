@@ -22,13 +22,14 @@ $border-radius               	: 3px;
 
 /*
    Color variables
-   Background : Berger Orange #ffc65a  http://encycolorpedia.cn/ffc65a
-   text-color: orange
+   Background : b-orange #ffc65a  http://encycolorpedia.cn/002147
+   奶油色／Cream #fffdd0
+   text-color: white
    ========================================================================== */
 
 $white                        : #fff; 
 $black                        : #000;
-$Berger Orange                : #ffc65a;
+$b-orange                     : #ffc65a;
 $cream                        : #fffdd0;
 $lemon                        : #fff700;
 
@@ -37,12 +38,12 @@ $body-color                  	: #ebebeb;
 $text-color                  	: #313130;
 $caption-color                : mix($white, $text-color, 25%);
 
-$base-color                  	: $Berger Orange;
+$base-color                  	: $b-orange;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 $link-color                  	: #222;
 
-$primary-color               	: $Berger Orange;
+$primary-color               	: $b-orange;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;
@@ -88,10 +89,10 @@ $form-font-size              	: $doc-font-size;
    Sliding menu navigation variables
    ========================================================================== */
 
-$sliding-menu-border-color	 	   : $Berger Orange;
-$sliding-menu-background 		   : $Berger Orange;
+$sliding-menu-border-color	 	   : $b-orange;
+$sliding-menu-background 		   : $b-orange;
 $sliding-menu-color 	 		   : $white;
-$sliding-menu-background-hover     : $Berger Orange;
+$sliding-menu-background-hover     : $b-orange;
 $sliding-menu-color-hover	 	   : $cream;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
 $button-size		         	   : 30px;
