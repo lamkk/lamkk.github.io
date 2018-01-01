@@ -3,7 +3,7 @@
 - title: 学生作品集
   url: /portfolio/
   excerpt: "网站设计作品集合"
-  image: learning_teaching.gif
+  image: timg.gif
 
 - title: 学生网站学习笔记
   url: /posts/rwd/
@@ -13,14 +13,14 @@
 - title: 可视化作品展示
   url: /infovis/
   excerpt: "可视化作品集合"
-  image: Tower_of_Babel.jpg
+  image: tableau.gif
 
 - title: 可视化笔记
   url: /posts/infovis/
   excerpt: "可视化笔记集合"
-  image: 300x200.gif
+  image: sanci.gif
 
 - title: 联络我
   url: /contact/
   excerpt: "联络我"
-  image: Pigeon_post.jpg
+  image: head.jpg
