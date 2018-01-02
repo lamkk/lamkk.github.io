@@ -22,7 +22,7 @@ $border-radius               	: 3px;
 
 /*
    Color variable
-   Background : deepskyblue #00bfff http://encycolorpedia.cn/00bfff
+   Background : springgreen #00ff7f http://encycolorpedia.cn/00ff7f
    奶油色／Cream #fffdd0
    text-color: white
    ========================================================================== */
@@ -35,19 +35,19 @@ $lemon                        : #fff700;
 $greenyellow                  : #adff2f;
 $doggeblue                     : #1e90ff;
 $navy                         : #000080;
-$deepskyblue                  : #00bfff;
+$springgreen                  : #00ff7f;
 
 $body-color                  	: #ebebeb;
 
 $text-color                  	: #313130;
 $caption-color                : mix($white, $text-color, 25%);
 
-$base-color                  	: $deepskyblue;
+$base-color                  	: $springgreen;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 $link-color                  	: #222;
 
-$primary-color               	: $deepskyblue;
+$primary-color               	: $springgreen;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;
@@ -93,10 +93,10 @@ $form-font-size              	: $doc-font-size;
    Sliding menu navigation variables
    ========================================================================== */
 
-$sliding-menu-border-color	 	   : $deepskyblue;
-$sliding-menu-background 		   : $deepskyblue;
+$sliding-menu-border-color	 	   : $springgreen;
+$sliding-menu-background 		   : $springgreen;
 $sliding-menu-color 	 		   : $white;
-$sliding-menu-background-hover     : $deepskyblue;
+$sliding-menu-background-hover     : $springgreen;
 $sliding-menu-color-hover	 	   : $cream;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
 $button-size		         	   : 30px;
