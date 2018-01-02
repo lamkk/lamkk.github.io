@@ -77,10 +77,14 @@
 			&:hover:after {
 				width: 100%;
 			}
+			&:hover {
+ 			color: $oxfordblue;
+ 			background-color: $lemon;
+	        }
 		}
 	}
-}
-
+}			
+ 
 /* Top menu navigation */
 
 .top-menu {
@@ -270,7 +274,13 @@
 	// expand image to cover full width of header
 	img {
 		width: 100%;
-	}
+	}@include media($medium) {  
+ 274   +			width: 50%;  
+ 275   +		}  
+ 276   +		@include media($large) {  
+ 277   +			width: 33%;  
+ 278   +		}  
+ 279   +  
 }
 // make image flush with edges on small screens
 .page-image {
