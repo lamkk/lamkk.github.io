@@ -7,6 +7,7 @@ tags: []
 image: feature: 300x200.gif teaser:
 ---
 <html>
+<head></head>
 <body>
 <div class='tableauPlaceholder' 
 id='viz1514909083045' 
