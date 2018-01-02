@@ -4,8 +4,8 @@ title:  "联系我"
 date:   2018-01-02 22:07:50 +0800
 categories: notes_tech Jekyll
 image:
-  teaser: dogge.svg
-  feature: dogge.svg
+  teaser: prms.jpg
+  feature: prms.jpg
 ---
 
 {% include toc.html %}
