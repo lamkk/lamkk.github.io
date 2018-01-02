@@ -22,14 +22,14 @@ $border-radius               	: 3px;
 
 /*
    Color variables
-   Background : Blue #0000ff  http://encycolorpedia.cn/0000ff
+   Background : Orange / #ffa500  http://encycolorpedia.cn/ffa500
    奶油色／Cream #fffdd0
    text-color: white
    ========================================================================== */
 
 $white                        : #fff; 
 $black                        : #000;
-$blue                         : #0000ff;
+$orange                       : #ffa500;
 $cream                        : #fffdd0;
 $lemon                        : #fff700;
 
@@ -38,7 +38,7 @@ $body-color                  	: #ebebeb;
 $text-color                  	: #313130;
 $caption-color                : mix($white, $text-color, 25%);
 
-$base-color                  	: #0000ff;
+$base-color                  	: $orange;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 $link-color                  	: #222;
@@ -89,10 +89,10 @@ $form-font-size              	: $doc-font-size;
    Sliding menu navigation variables
    ========================================================================== */
 
-$sliding-menu-border-color	 	   : $blue;
-$sliding-menu-background 		   : $blue;
+$sliding-menu-border-color	 	   : $orange;
+$sliding-menu-background 		   : $orange;
 $sliding-menu-color 	 		   : $white;
-$sliding-menu-background-hover     : $blue;
+$sliding-menu-background-hover     : $orange;
 $sliding-menu-color-hover	 	   : $cream;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
 $button-size		         	   : 30px;
