@@ -6,7 +6,8 @@ excerpt: "可持续发展，含＂生态文明＂倡议"
 tags: []
 image: feature: 300x200.gif teaser:
 ---
-
+<html>
+<body>
 <div class='tableauPlaceholder' 
 id='viz1514909083045' 
 style='position: relative'>
@@ -29,5 +30,6 @@ style='position: relative'>
  <param name='display_count' value='yes' />
  <param name='filter' value='publish=yes' />
  </object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1514909083045');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>  
-
+</body>
+ </html>
 
