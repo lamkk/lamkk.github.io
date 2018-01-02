@@ -7,15 +7,6 @@ tags: []
 image: feature: 300x200.gif teaser:
 ---
 +## 概要  
- 7   +《2017年可持续发展目标报告》回顾了在实施2030年可持续发展议程的第二年，17项目标的进展情况。该报告基于最新的可用数据，突出强调了随着国际社会越来越充分地认识到2030年议程所倡导的宏伟目标和原则，而面临的收获与挑战。  
- 8   +  
- 9   +尽管过去十年在所有发展领域均取得了显著进展，但按照前几年的发展速度，不足以在2030年完全实现可持续发展目标具体目标。因此，时间非常紧迫。另外，如下文所示，进展并不总是均衡的。不同区域、不同性别、不同年龄、不同财富状况和不同居住地包括城乡之间，进步是不平衡的。要想实现2030年议程所勾画的宏伟愿景，需要速度更快、更包容的进展。  
- 10   +  
- 11   +## 目标1：在全世界消除一切形式的贫困  
- 12   +     
- 13   +<img src="https://unstats.un.org/sdgs/report/2017/svg/goal-01.svg" alt="" style="width: 100%" type="image/svg+xml">  
- 25   +## 参考来源  
- 26   +* [SDG 2017报告：全文-中文](https://unstats.un.org/sdgs/files/report/2017/TheSustainableDevelopmentGoalsReport2017_Chinese.pdf)  
- 27   +* [SDG 2017报告：目标1-英文](https://unstats.un.org/sdgs/report/2017/goal-01/)  
+<div class='tableauPlaceholder' id='viz1514909083045' style='position: relative'><noscript><a href='#'><img alt='KTV^酒吧^电影院^网咖 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Z9&#47;Z9KCTXM8D&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;Z9KCTXM8D' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Z9&#47;Z9KCTXM8D&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1514909083045');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>  
 
 
