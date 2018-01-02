@@ -3,9 +3,7 @@ layout: article
 title:  "2017年可持续发展目标报告：目标2"
 date:   2017-12-28 22:07:50 +0800
 categories: SDG 
-image:
-  teaser: C_SDG goals_icons-individual-RGB-02.png
-  feature: C_SDG goals_icons-individual-RGB-02.png
+
 ---
 
 
@@ -16,17 +14,25 @@ image:
 <div class="row img-rounded" style="padding:30px; box-shadow: 10px 10px 5px #888888; border: 1px solid #D19F2A;">
 <div class="col-md-12">
 <div style="background: #D19F2A; color:white; border-radius:6px; padding:6px;"  markdown="1">
-#### 目标2：消除饥饿，实现粮食安全，改善营养状况和促进可持续农业
+#### 如何将Tabelau工作簿po上自己的网页
 </div>
 </div>
 <div class="col-md-8" markdown="1" ><!-- right -->
-目标2侧重于满足人类的一项基本需求：每个人都能获得有营养、健康的食物，并拥有可持续地保障满足该需求的途径。只靠增加粮食生产不足以解决饥饿问题。运作良好的市场、增加小农户的收入、平等获得技术和土地以及增加投资等举措在建立有活力的生产性农业以及进一步保障粮食安全方面均发挥了重要作用。
+首先要创建自己的Tabelau账号，上传自己的工作簿到Tabelau服务器中
 
-* 全球营养不良人口的比例从2000-2002年的15%下降到2014-2016年的11%左右。全球范围内，2014-2016年约有7.93亿营养不良人口，低于2000-2002年的9.30亿。
-* 2014-2016年，南亚和撒哈拉以南非洲占全球营养不良人口的63%。
-* 2016年，全球的失业者只有22%领取了失业救济金，重度残疾人只有28%得到残疾抚恤金，儿童只有35%享有社会保障，产妇只有41%享有孕产福利，超过退休年龄的人口有68%领取养老金。
-* 2016年，估计有1.55亿五岁以下儿童发育迟缓(相对于年龄而言身高较矮）； 5200万五岁以下儿童体重不足（相对身高而言体重较轻）；4100万五岁以下儿童超重。全球发育迟缓率从2000年的33%下降到2016年的23%。
-* 经济合作与发展组织发展援助委员会成员国的可按部门分配援助资金中，农业援助份额从20世纪80年代中期的近20%下降到2015年的7%。
+* 打开Tabelau服务器中自己的工作簿，找到下方的分享图标，然后点击复制出现的分享代码。
+* 在自己url文件夹里创建index.md文档，接着创建基本的网页代码
+<html>
+<head></head>
+<body>
+  此处粘贴复制得到的分享代码
+</body>
+<html>
+* 用此方式做出来的Tabelau分享图表会遵循默认左对齐原则，所以整体工作簿会偏左。
+* 最简捷的解决方法为在复制出来的分享代码里的<div>中的style后面加上margin: 0 auto；整个div代码一般为<div class='tableauPlaceholder' 
+id='viz1514909083045' 
+style='position: relative;margin: 0 auto'>
+* 如有多项Tabelau工作簿需要分享，则在第一个div后继续添加分享代码即可。
 
 </div>
 </div>
