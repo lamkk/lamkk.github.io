@@ -55,8 +55,6 @@
 			padding: (.25 * $masthead-height) 0 (.25 * $masthead-height) ;
 			height: $masthead-height;
 			font-family: $alt-font;
-		    @include transition(color 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55));
-     		@include transition(background-color 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55));
 			&:before,
 			&:after {
 				content: '';
@@ -65,7 +63,7 @@
 				top: 0;
 				left: 0;
 				height: 2px;
-				@include transition(width 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55));
+				@include transition(width 0.3s);
 			}
 			&:before {
 				width: 100%;
@@ -73,20 +71,16 @@
 			}
 			&:after {
 				width: 0;
-				background-color: $black;
+				background: $black;
 			}
 			&:active:after,
 			&:hover:after {
 				width: 100%;
 			}
-			&:hover {
- 			    color: $lemon;
- 			    background-color: $lemon;
-	        }
 		}
 	}
-}			
- 
+}
+
 /* Top menu navigation */
 
 .top-menu {
@@ -276,13 +270,7 @@
 	// expand image to cover full width of header
 	img {
 		width: 100%;
-	}@include media($medium) {  
- 274   +			width: 50%;  
- 275   +		}  
- 276   +		@include media($large) {  
- 277   +			width: 33%;  
- 278   +		}  
- 279   +  
+	}
 }
 // make image flush with edges on small screens
 .page-image {
