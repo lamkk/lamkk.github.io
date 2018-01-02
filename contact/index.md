@@ -8,18 +8,19 @@ image:
   feature: C_SDG goals_icons-individual-RGB-01.png
 ---
 
-作者联系方式
-==
-Wechat: 1255471240
+##作者联系方式
+主要联系方法
+
+- Wechat: 1255471240
     
-E-mail: 1255471240@qq.com
+- E-mail: 1255471240@qq.com
 
-Tel: 15521509619
+- Tel: 15521509619
 
-GitHub name:lamkk
+- GitHub name:lamkk
 
-个人信息
---
+##个人信息
+
 蓝强
 
 中大南方2016级文传系学生
