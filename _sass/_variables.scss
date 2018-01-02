@@ -42,12 +42,12 @@ $body-color                  	: #ebebeb;
 $text-color                  	: #313130;
 $caption-color                : mix($white, $text-color, 25%);
 
-$base-color                  	: $springgreen;
+$base-color                  	: $navy;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 $link-color                  	: #222;
 
-$primary-color               	: $springgreen;
+$primary-color               	: $navy;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;
@@ -93,10 +93,10 @@ $form-font-size              	: $doc-font-size;
    Sliding menu navigation variables
    ========================================================================== */
 
-$sliding-menu-border-color	 	   : $springgreen;
-$sliding-menu-background 		   : $springgreen;
+$sliding-menu-border-color	 	   : $navy;
+$sliding-menu-background 		   : $navy;
 $sliding-menu-color 	 		   : $white;
-$sliding-menu-background-hover     : $springgreen;
+$sliding-menu-background-hover     : $navy;
 $sliding-menu-color-hover	 	   : $cream;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
 $button-size		         	   : 30px;
