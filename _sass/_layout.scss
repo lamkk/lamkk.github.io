@@ -77,6 +77,10 @@
 			&:hover:after {
 				width: 100%;
 			}
+			&:hover {
+     			color: $grayblue;
+ 			    background-color: $lemon;
+ 		    }
 		}
 	}
 }
