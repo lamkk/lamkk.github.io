@@ -11,7 +11,7 @@ image: feature: 300x200.gif teaser:
 <body>
 <div class='tableauPlaceholder' 
 id='viz1514909083045' 
-style='position: relative'>
+style='position: relative;margin: 0 auto'>
 <noscript><a href='#'>
 <img alt='KTV^酒吧^电影院^网咖 '
  src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Z9&#47;Z9KCTXM8D&#47;1_rss.png' 
