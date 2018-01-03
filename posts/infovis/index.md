@@ -21,7 +21,7 @@ categories: SDG
 首先要创建自己的Tabelau账号，上传自己的工作簿到Tabelau服务器中
 
 * 打开Tabelau服务器中自己的工作簿，找到下方的分享图标，然后点击复制出现的分享代码。
-* 在自己url文件夹里创建index.md文档，接着创建基本的网页代码<img src=".....\image\1.jpg"  style="width: auto">
+* 在自己url文件夹里创建index.md文档，接着创建基本的网页代码<img src="./image/1.jpg"  style="width: auto">
 * 用此方式做出来的Tabelau分享图表会遵循默认左对齐原则，所以整体工作簿会偏左。
 * 最简捷的解决方法为在复制出来的分享代码里的<div>中的style后面加上margin: 0 auto；整个div代码一般为
 * 如有多项Tabelau工作簿需要分享，则在第一个div后继续添加分享代码即可。
