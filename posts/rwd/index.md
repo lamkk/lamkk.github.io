@@ -21,17 +21,12 @@ categories: SDG
 用Nopepad+++打开即可修改文章内容，想增加文章就以相同的命名格式建立一个markdown文件，在上面的添加基本信息。
 首页文章的排序会根据一定规则排序，本模版以基本信息中的date标记，从最近日期开始排序文章。
 文章内容放在div内才容易控制排版，否则默认左对齐。
-
-</div>
-<div style="background: #D19F2A; color:white; border-radius:6px; padding:6px;"  markdown="1">
-#### 如何po图片上文章
-</div>
-<div class="col-md-8" markdown="1" >
-找到源模版文件夹里的_posts文件夹，里面含有数个以"年-月-日-jekyll_文章名"的markdown文件。
-用Nopepad+++打开即可修改文章内容，想增加文章就以相同的命名格式建立一个markdown文件，在上面的添加基本信息。
-首页文章的排序会根据一定规则排序，本模版以基本信息中的date标记，从最近日期开始排序文章。
-文章内容放在div内才容易控制排版，否则默认左对齐。
 基本信息中的<img src="./images/imgex.jpg"  style="width: auto">将会选择在首页显示的图片。
+在想要加图片的地方添加代码<img src="./images/imgeadd.jpg"  style="width: auto">就可以显示预备的图片，
+注意images文件夹与所编写的.md文档需在同一个文件夹内。
+</div>
+
+
 </div>
 <div style="background: #D19F2A; color:white; border-radius:6px; padding:6px;"  markdown="1">
 #### 如何将Tabelau工作簿po上自己的网页
