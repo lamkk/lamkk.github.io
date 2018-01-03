@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "2017年可持续发展目标报告：目标2"
+title:  "网站笔记"
 date:   2017-12-28 22:07:50 +0800
 categories: SDG 
 
@@ -14,8 +14,27 @@ categories: SDG
 <div class="row img-rounded" style="padding:30px; box-shadow: 10px 10px 5px #888888; border: 1px solid #D19F2A;">
 <div class="col-md-12">
 <div style="background: #D19F2A; color:white; border-radius:6px; padding:6px;"  markdown="1">
-#### 如何将Tabelau工作簿po上自己的网页
+#### 如何po文章上首页
 </div>
+<div class="col-md-8" markdown="1" >
+找到源模版文件夹里的_posts文件夹，里面含有数个以"年-月-日-jekyll_文章名"的markdown文件。
+用Nopepad+++打开即可修改文章内容，想增加文章就以相同的命名格式建立一个markdown文件，在上面的添加基本信息。
+首页文章的排序会根据一定规则排序，本模版以基本信息中的date标记，从最近日期开始排序文章。
+文章内容放在div内才容易控制排版，否则默认左对齐。
+
+</div>
+<div style="background: #D19F2A; color:white; border-radius:6px; padding:6px;"  markdown="1">
+#### 如何po图片上文章
+</div>
+<div class="col-md-8" markdown="1" >
+找到源模版文件夹里的_posts文件夹，里面含有数个以"年-月-日-jekyll_文章名"的markdown文件。
+用Nopepad+++打开即可修改文章内容，想增加文章就以相同的命名格式建立一个markdown文件，在上面的添加基本信息。
+首页文章的排序会根据一定规则排序，本模版以基本信息中的date标记，从最近日期开始排序文章。
+文章内容放在div内才容易控制排版，否则默认左对齐。
+基本信息中的<img src="./images/imgex.jpg"  style="width: auto">将会选择在首页显示的图片。
+</div>
+<div style="background: #D19F2A; color:white; border-radius:6px; padding:6px;"  markdown="1">
+#### 如何将Tabelau工作簿po上自己的网页
 </div>
 <div class="col-md-8" markdown="1" ><!-- right -->
 首先要创建自己的Tabelau账号，上传自己的工作簿到Tabelau服务器中
