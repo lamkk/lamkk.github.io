@@ -22,7 +22,7 @@ categories: SDG
 首页文章的排序会根据一定规则排序，本模版以基本信息中的date标记，从最近日期开始排序文章。
 文章内容放在div内才容易控制排版，否则默认左对齐。
 基本信息中的<img src="./images/imgex.jpg"  style="width: auto">将会选择在首页显示的图片。
-在想要加图片的地方添加代码<img src="./images/imgeadd.jpg"  style="width: auto">就可以显示预备的图片，
+在想要加图片的地方添加代码<img src="./images/imgadd.jpg"  style="width: auto">就可以显示预备的图片，
 注意images文件夹与所编写的.md文档需在同一个文件夹内。
 </div>
 
