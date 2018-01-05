@@ -46,12 +46,12 @@ image:
 
 * 打开Tabelau服务器中自己的工作簿，点击下方分享，然后复制出现的分享代码。
 
-* 在自己url的文件夹里创建index.md文档，接着创建基本的网页代码 <img src="./images/1.jpg">
+* 在自己url的文件夹里创建index.md文档，接着创建基本的网页代码 ![imgex](https://lamkk.github.io/images/1.jpg)
 * 然后在body部分里面粘贴复制得到的分享代码
  
 * 用此方式做出来的Tabelau分享图表会遵循默认左对齐原则，所以整体工作簿会偏左。
 
-* 最简捷的解决方法为在复制出来的分享代码里的div中的style后面加上margin: 0 auto；整个div代码一般为<img src="./images/2.jpg">，这样就可以使得工作表居中。
+* 最简捷的解决方法为在复制出来的分享代码里的div中的style后面加上margin: 0 auto；整个div代码一般为![imgex](https://lamkk.github.io/images/2.jpg)，这样就可以使得工作表居中。
 
 * 如有多项Tabelau工作簿需要分享，则在第一个div后继续添加分享代码即可。
 
