@@ -2,7 +2,7 @@
 layout: article
 title:  "学期初网页作品"
 date:   2017-10-05 16:07:50 +0800
-categories: website
+categories: webart
 image:
   teaser: 8.jpg
   feature: 6.jpg

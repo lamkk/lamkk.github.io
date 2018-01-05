@@ -2,7 +2,7 @@
 layout: article
 title:  "markdown语法笔记"
 date:   2018-01-04 22:07:50 +0800
-categories: markdown_down
+categories: webnote
 image:
   teaser: mdhead.jpg
   feature: md.jpg
