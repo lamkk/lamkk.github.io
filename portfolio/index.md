@@ -13,7 +13,7 @@ image:
 在此展示学生作品集，好的丶可改进的及有趣的
 
 <div class="tiles">
-{% for post in site.categories.portfolio %}
+{% for post in site.portfolio %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles 把所有categories 有 portfolio 的列出來-->
