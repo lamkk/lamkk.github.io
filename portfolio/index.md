@@ -13,7 +13,9 @@ image:
 在此展示学生作品集，好的丶可改进的及有趣的
 
 <div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
+{* for post in site.posts *}
+    {* if post.categories == webart *}
+        {* continue *}
+    {* endif *}
+{* endfor *}
 </div><!-- /.tiles -->
