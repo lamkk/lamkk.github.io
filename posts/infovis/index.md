@@ -6,7 +6,7 @@ modified:
 excerpt: "展示学生可视化笔记"
 tags: []
 image: 
-  feature: Portfolio.svg
+  feature: tabnote.jpg
   teaser:
 ---
 
