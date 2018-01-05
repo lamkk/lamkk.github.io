@@ -1,35 +1,19 @@
 ---
-layout: article
-title:  "tabelau表格贴网站上"
-date:   2017-12-28 22:07:50 +0800
-categories: SDG 
-
+layout: archive
+title: "学生可视化笔记"
+date: 2017-12-30T11:40:45-04:00
+modified:
+excerpt: "展示学生可视化笔记"
+tags: []
+image: 
+  feature: Portfolio.svg
+  teaser:
 ---
 
+在此展示学生可视化作品集！！
 
-
-## 概要
-网站学习过程中的笔记分享
-
-<div class="row img-rounded" style="padding:30px; box-shadow: 10px 10px 5px #888888; border: 1px solid #D19F2A;">
-<div class="col-md-12">
-<div style="background: #D19F2A; color:white; border-radius:6px; padding:6px;"  markdown="1">
-#### 如何将Tabelau工作簿po上自己的网页
-</div>
-</div>
-<div class="col-md-8" markdown="1" ><!-- right -->
-首先要创建自己的Tabelau账号，上传自己的工作簿到Tabelau服务器中
-
-* 打开Tabelau服务器中自己的工作簿，点击下方分享，然后复制出现的分享代码。
-
-* 在自己url的文件夹里创建index.md文档，接着创建基本的网页代码 <img src="./images/1.jpg">
-* 然后在body部分里面粘贴复制得到的分享代码
- 
-* 用此方式做出来的Tabelau分享图表会遵循默认左对齐原则，所以整体工作簿会偏左。
-
-* 最简捷的解决方法为在复制出来的分享代码里的div中的style后面加上margin: 0 auto；整个div代码一般为<img src="./images/2.jpg">，这样就可以使得工作表居中。
-
-* 如有多项Tabelau工作簿需要分享，则在第一个div后继续添加分享代码即可。
-
-</div>
-</div>
+<div class="tiles">
+{% for post in site.categories.tabnote %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
