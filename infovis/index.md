@@ -7,22 +7,16 @@ excerpt: "展示学生可视化作品"
 tags: []
 image: 
   feature: webb.jpg
-  teaser:abcd.jpg
+  teaser: abcd.jpg
 ---
 
 在此展示学生可视化作品集！！
-<html>
-<head>
-</head>
-<body> 
 
-<br>
-<br>
+
 <div class="tiles">
 {% for post in site.categories.tableau %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
- </body>
- </html>
+
 
