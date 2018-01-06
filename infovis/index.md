@@ -11,34 +11,22 @@ tags: []
 <html>
 <head>
 <style>
-#prat1{
-width: 40%;
-height: 40%;
-float: left;
+body{
+     margin:100%;
+     padding:100%;
 }
-#prat2{
-width: 40%;
-height: 40%;
-background: red;
-float: left;
-}
-#prat3{
-width: 200px;
-height: 200px;
-background: yellow;
-float: left;
-clear: left;
-}
-#prat4{
-width: 200px;
-height: 200px;
-background: green;
-float: left;
-}
+.d1{
+      width:40%;
+      height:40%;
+      background-color:red;
+      margin-left:5%;
+      margin-top:5%;
+      position:absolute;
+  }
 </style>
 </head>
 <body>
-<div id="prat1">
+<div class="d1">
 <div class='tableauPlaceholder' id='viz1515238761789' style='position: relative'>
 <noscript><a href='#'><img alt='仪表板 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;op&#47;oppomap&#47;1_2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' />
  <param name='site_root' value='' />
