@@ -11,10 +11,6 @@ tags: []
 <html>
 <head>
 <style>
-body{
-     margin:100%;
-     padding:100%;
-}
 .d1{
       width:40%;
       height:40%;
