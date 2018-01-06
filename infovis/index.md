@@ -6,7 +6,7 @@ modified:
 excerpt: "展示学生可视化作品"
 tags: []
 image: 
-  feature: webb.jpg
+  feature: abcd.jpg
   teaser: abcd.jpg
 ---
 
