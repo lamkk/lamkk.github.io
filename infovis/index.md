@@ -17,8 +17,8 @@ height: 40%;
 float: left;
 }
 #prat2{
-width: 200px;
-height: 200px;
+width: 40%;
+height: 40%;
 background: red;
 float: left;
 }
@@ -62,6 +62,7 @@ float: left;
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
  </script>
 </div>
+<div id="prat2"></div>
 <div class="tiles">
 {% for post in site.categories.tableau %}
   {% include post-grid.html %}
