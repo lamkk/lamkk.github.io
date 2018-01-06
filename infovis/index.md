@@ -14,6 +14,7 @@ tags: []
 .bod{
    width: 100%
    height: 66%
+   margin:20px;
 }
 </style>
 </head>
