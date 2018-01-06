@@ -12,9 +12,8 @@ tags: []
 <head>
 <style>
 #prat1{
-width: 200px;
-height: 200px;
-background: blue;
+width: 40%;
+height: 40%;
 float: left;
 }
 #prat2{
@@ -39,7 +38,8 @@ float: left;
 </style>
 </head>
 <body>
-<div class='tableauPlaceholder' id="prat1" style='position: relative'>
+<div id="prat1">
+<div class='tableauPlaceholder' id='viz1515238761789' style='position: relative'>
 <noscript><a href='#'><img alt='仪表板 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;op&#47;oppomap&#47;1_2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' />
  <param name='site_root' value='' />
  <param name='name' value='oppomap&#47;1_2' />
