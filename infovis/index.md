@@ -11,18 +11,14 @@ tags: []
 <html>
 <head>
 <style>
-.d1{
-      width:40%;
-      height:40%;
-      background-color:red;
-      margin-left:5%;
-      margin-top:5%;
-      position:absolute;
-  }
+.bod{
+   width: 100%
+   height: 66%
+}
 </style>
 </head>
 <body>
-<div class="d1">
+<div class="bod">
 <div class='tableauPlaceholder' id='viz1515238761789' style='position: relative'>
 <noscript><a href='#'><img alt='仪表板 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;op&#47;oppomap&#47;1_2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' />
  <param name='site_root' value='' />
@@ -46,7 +42,7 @@ tags: []
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
  </script>
 </div>
-<div id="prat2"></div>
+
 <div class="tiles">
 {% for post in site.categories.tableau %}
   {% include post-grid.html %}
