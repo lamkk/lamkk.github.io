@@ -61,7 +61,7 @@ float: left;
  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
  </script>
-
+</div>
 <div class="tiles">
 {% for post in site.categories.tableau %}
   {% include post-grid.html %}
