@@ -11,7 +11,7 @@ image:
 
 
 ## 概要
-网站学习过程中的笔记分享，例如如何在此模版上加入文章，放tableau图表。
+网站学习过程中的笔记分享，例如如何在此模版上加入文章等。
 
 <div class="row img-rounded" style="padding:30px; box-shadow: 10px 10px 5px #888888; border: 1px solid #D19F2A;">
 <div class="col-md-12">
