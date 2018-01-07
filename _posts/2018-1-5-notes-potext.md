@@ -7,9 +7,6 @@ image:
   teaser: web.jpg
   feature: webin.jpg
 ---
-
-
-
 ## 概要
 网站学习过程中的笔记分享，例如如何在此模版上加入文章等。
 
