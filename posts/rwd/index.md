@@ -9,7 +9,6 @@ image:
   feature: weba.jpg
   teaser:
 ---
-
 在此展示学生网站笔记集！！
 
 <div class="tiles">
