@@ -10,8 +10,6 @@ image:
   teaser:
 ---
 
-在此展示学生可视化作品集！！
-
 <div class="tiles">
 {% for post in site.categories.tabnote %}
   {% include post-grid.html %}
