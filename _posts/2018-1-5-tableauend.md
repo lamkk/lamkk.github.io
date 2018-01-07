@@ -7,7 +7,7 @@ image:
   teaser: tbnet.jpg
   feature: tbhead.jpg
 ---
-
+tableau期末可视化作品每张图表的简单故事。
 <html>
 <head></head>
 <body>

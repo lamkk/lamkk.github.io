@@ -7,7 +7,7 @@ image:
   teaser: mdhead.jpg
   feature: md.jpg
 ---
-markdown语法使用笔记
+markdown语法使用笔记，记录了常使用的markdown语法如引用、加图片等的使用方法。
 <div class="row img-rounded" style="background-color:#ffe4c4;padding:30px; box-shadow: 10px 10px 5px #888888; border: 1px solid #EA1D2D;">
 <div class="col-md-12">
 <div class="col-md-12"  markdown="1" >

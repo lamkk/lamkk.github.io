@@ -1,7 +1,7 @@
 ---
 layout: article
-title:  "网站笔记"
-date:   2017-12-28 22:07:50 +0800
+title:  "此模版网站笔记"
+date:   2018-01-03 22:07:50 +0800
 categories: webnote 
 image:
   teaser: web.jpg
@@ -11,7 +11,7 @@ image:
 
 
 ## 概要
-网站学习过程中的笔记分享
+网站学习过程中的笔记分享，例如如何在此模版上加入文章，放tableau图表。
 
 <div class="row img-rounded" style="padding:30px; box-shadow: 10px 10px 5px #888888; border: 1px solid #D19F2A;">
 <div class="col-md-12">

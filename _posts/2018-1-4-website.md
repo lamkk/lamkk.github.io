@@ -11,6 +11,7 @@ image:
 <head>
 </head>
 <body>
-<a href="https://lamkk.github.io/lamken.github.io/" target="_blank">点击跳出视频网页作品。</a>
+<p>学期初学习网页，使用了简单的CSS语法和HTML语法构建出的引用视频的网页</p>
+<a href="https://lamkk.github.io/lamken.github.io/" target="_blank">点击跳转出视频网页作品。</a>
 </body>
 </html>
