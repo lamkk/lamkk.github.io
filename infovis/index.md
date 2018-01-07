@@ -6,10 +6,10 @@ modified:
 excerpt: ""
 tags: []
 image: 
-  feature: abcd.jpg
+  feature: 
   teaser: 
 ---
-
+![123](https://lamkk.github.io/images/cdef.png)
 
 <div class="tiles">
 {% for post in site.categories.tableau %}
