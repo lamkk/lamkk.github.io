@@ -10,8 +10,6 @@ image:
   teaser:
 ---
 
-在此展示学生作品集，好的丶可改进的及有趣的
-
 <div class="tiles">
 {% for post in site.categories.webart %}
   {% include post-grid.html %}
