@@ -4,8 +4,8 @@ title:  "相册模板学习网站"
 date:   2017-10-05 16:07:50 +0800
 categories: webart
 image:
-  teaser: 8.jpg
-  feature: 6.jpg
+  teaser: TT5.jpg
+  feature: TT6.jpg
 ---
 <html>
 <head>
