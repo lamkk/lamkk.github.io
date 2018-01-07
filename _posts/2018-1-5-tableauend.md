@@ -2,7 +2,7 @@
 layout: article
 title:  "tabelau期末作业"
 date:   2018-01-05 19:07:50 +0800
-categories: tableau,webart
+categories: tableau;webart
 image:
   teaser: tbnet.jpg
   feature: tbhead.jpg
