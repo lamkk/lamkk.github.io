@@ -6,7 +6,7 @@ modified:
 excerpt: ""
 tags: []
 image: 
-  feature: abcd.png
+  feature: abcd.jpg
   teaser: 
 ---
 
